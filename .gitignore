@@ -1,0 +1,10 @@
+.vscode
+build
+bin
+
+# Clang format
+*.clang-format.old
+
+# Static Analysis
+compile_commands.json
+.clang-tidy.old
